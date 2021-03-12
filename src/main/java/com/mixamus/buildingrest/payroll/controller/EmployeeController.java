@@ -1,5 +1,8 @@
-package com.mixamus.buildingrest.payroll;
+package com.mixamus.buildingrest.payroll.controller;
 
+import com.mixamus.buildingrest.payroll.Employee;
+import com.mixamus.buildingrest.payroll.EmployeeNotFoundException;
+import com.mixamus.buildingrest.payroll.EmployeeRepository;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
