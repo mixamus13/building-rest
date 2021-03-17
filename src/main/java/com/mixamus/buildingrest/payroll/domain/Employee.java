@@ -1,4 +1,4 @@
-package com.mixamus.buildingrest.payroll;
+package com.mixamus.buildingrest.payroll.domain;
 
 import lombok.*;
 

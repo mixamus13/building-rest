@@ -1,4 +1,4 @@
-package com.mixamus.buildingrest.payroll;
+package com.mixamus.buildingrest.payroll.exceptions;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ControllerAdvice;

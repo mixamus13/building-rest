@@ -1,4 +1,4 @@
-package com.mixamus.buildingrest.payroll;
+package com.mixamus.buildingrest.payroll.exceptions;
 
 public class EmployeeNotFoundException extends RuntimeException {
     public EmployeeNotFoundException(Long id) {
